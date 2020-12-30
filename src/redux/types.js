@@ -1,0 +1,9 @@
+const SET_PHOTOS = 'gallery/SET_PHOTOS'
+const SET_CURRENT_PHOTO = 'gallery/SET_CURRENT_PHOTO'
+const SET_PHOTOS_SAGA = 'gallery/SET_PHOTOS_WITH_SAGA'
+
+export default {
+    SET_PHOTOS,
+    SET_CURRENT_PHOTO,
+    SET_PHOTOS_SAGA
+}
